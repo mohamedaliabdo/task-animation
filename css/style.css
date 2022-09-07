@@ -1,0 +1,295 @@
+*{
+    width: 0;
+    height: 0;
+    box-sizing: border-box;
+}
+body{background-color: rgb(250, 240, 226);}
+.div1{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(211, 181, 141);
+
+    position: relative;
+
+        animation-name: mohamed;
+        animation-duration: 2s;
+         animation-direction: alternate;
+    
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed{
+    
+    0%{background-image: url(../images/Apple-iPhone-11-Pro-Gold-500x500.jpg);
+        top: 0px;
+        left: 0px;
+    }
+    50%{border-radius: 50%;
+        top:0px;
+        left: 550px;
+
+    }
+    100%{background-image: url(../images/11-pro2.jpg);
+        top: 0px;
+        left: 1100px;
+    }
+}
+.div2{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+    margin-left: 1100px;
+
+    position: relative;
+
+        animation-name: mohamed2;
+        animation-duration: 2s;
+    
+    animation-delay: 2s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed2{
+    
+    0%{background-color: rgb(247, 211, 165);
+        top: 0px;
+        right: 0px;
+    }
+    50%{background-color: rgb(207, 162, 104);
+        top:0px;
+        right: 550px;
+        border-radius: 50%;
+
+    }
+    100%{background-color: rgb(156, 127, 89);
+        top: 0px;
+        right: 1100px;
+    }
+}
+.div3{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+
+
+    position: relative;
+
+        animation-name: mohamed3;
+        animation-duration: 2s;
+    
+    animation-delay: 4s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed3{
+    
+    0%{background-image: url(../images/11-pro19.jpg);
+        top: 0px;
+        left: 0px;
+    }
+    50%{border-radius: 50%;
+        top:0px;
+        left: 550px;
+
+    }
+    100%{background-image: url(../images/11-pro20.jpg);
+        top: 0px;
+        left: 1100px;
+    }
+}
+.div4{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+    margin-left: 1100px;
+
+    position: relative;
+
+        animation-name: mohamed4;
+        animation-duration: 2s;
+    
+    animation-delay: 6s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed4{
+    
+    0%{background-color: rgb(247, 211, 165);
+        top: 0px;
+        right: 0px;
+    }
+    50%{background-color: rgb(207, 162, 104);
+        top:0px;
+        right: 550px;
+        border-radius: 50%;
+
+    }
+    100%{background-color: rgb(156, 127, 89);
+        top: 0px;
+        right: 1100px;
+    }
+}
+.div5{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(211, 181, 141);
+
+    position: relative;
+
+        animation-name: mohamed5;
+        animation-duration: 2s;
+        animation-delay: 8s;
+         animation-direction: alternate;
+    
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed5{
+    
+    0%{background-image: url(../images/Apple-iPhone-11-Pro-Gold-500x500.jpg);
+        top: 0px;
+        left: 0px;
+    }
+    50%{border-radius: 50%;
+        top:0px;
+        left: 550px;
+
+    }
+    100%{background-image: url(../images/11-pro2.jpg);
+        top: 0px;
+        left: 1100px;
+    }
+}
+.div6{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+    margin-left: 1100px;
+
+    position: relative;
+
+        animation-name: mohamed6;
+        animation-duration: 2s;
+    
+    animation-delay: 10s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed6{
+    
+    0%{background-color: rgb(247, 211, 165);
+        top: 0px;
+        right: 0px;
+    }
+    50%{background-color: rgb(207, 162, 104);
+        top:0px;
+        right: 550px;
+        border-radius: 50%;
+
+    }
+    100%{background-color: rgb(156, 127, 89);
+        top: 0px;
+        right: 1100px;
+    }
+}
+.div7{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+
+
+    position: relative;
+
+        animation-name: mohamed7;
+        animation-duration: 2s;
+    
+    animation-delay: 12s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed7{
+    
+    0%{background-image: url(../images/11-pro19.jpg);
+        top: 0px;
+        left: 0px;
+    }
+    50%{border-radius: 50%;
+        top:0px;
+        left: 550px;
+
+    }
+    100%{background-image: url(../images/11-pro20.jpg);
+        top: 0px;
+        left: 1100px;
+    }
+}
+.div8{
+    width: 225px;
+    height: 225px;
+    background-color: rgb(168, 167, 166);
+    margin-left: 1100px;
+
+    position: relative;
+
+        animation-name: mohamed8;
+        animation-duration: 2s;
+    
+    animation-delay: 14s;
+    animation-direction: alternate;
+          animation-timing-function: ease-in-out;
+         animation-fill-mode: both; 
+    
+    
+}
+
+
+@keyframes mohamed8{
+    
+    0%{background-color: rgb(247, 211, 165);
+        top: 0px;
+        right: 0px;
+    }
+    50%{background-color: rgb(207, 162, 104);
+        top:0px;
+        right: 550px;
+        border-radius: 50%;
+
+    }
+    100%{background-color: rgb(156, 127, 89);
+        top: 0px;
+        right: 1100px;
+    }
+}
